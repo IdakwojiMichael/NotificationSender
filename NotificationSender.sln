@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationSender.Api", "NotificationSender.Api\NotificationSender.Api.csproj", "{7E533A99-D9DD-4577-A38A-EA0F1C978056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationSender.Tests", "NotificationSender.Tests\NotificationSender.Tests.csproj", "{2D114C75-CCE6-47DA-8C95-B5046ED9E4F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E533A99-D9DD-4577-A38A-EA0F1C978056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E533A99-D9DD-4577-A38A-EA0F1C978056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E533A99-D9DD-4577-A38A-EA0F1C978056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E533A99-D9DD-4577-A38A-EA0F1C978056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D114C75-CCE6-47DA-8C95-B5046ED9E4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D114C75-CCE6-47DA-8C95-B5046ED9E4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D114C75-CCE6-47DA-8C95-B5046ED9E4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D114C75-CCE6-47DA-8C95-B5046ED9E4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC57DCA2-D182-40CA-8B89-D8050F6ABA1F}
+	EndGlobalSection
+EndGlobal
